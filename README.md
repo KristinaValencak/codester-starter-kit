@@ -176,3 +176,9 @@ Screenshots are automatically captured on test failure.
 - The framework is environment-independent and easily adaptable  
 - Test scenarios can be extended based on project requirements  
 - Supports tagging and selective execution for flexible test runs  
+
+---
+
+## 📄 License
+
+This project is licensed under the MIT License.
